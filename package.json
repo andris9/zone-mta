@@ -29,7 +29,7 @@
     "msgpack-js": "0.3.0",
     "nodemailer-fetch": "2.1.0",
     "npmlog": "4.0.2",
-    "restify": "4.3.0",
+    "restify": "8.1.0",
     "seq-index": "1.1.0",
     "smtp-server": "2.0.2",
     "socks": "1.1.10",
