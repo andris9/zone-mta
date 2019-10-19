@@ -25,7 +25,7 @@
     "mailcomposer": "4.0.1",
     "mailsplit": "4.0.0",
     "mkdirp": "0.5.1",
-    "mongodb": "2.2.24",
+    "mongodb": "3.1.13",
     "msgpack-js": "0.3.0",
     "nodemailer-fetch": "2.1.0",
     "npmlog": "4.0.2",
