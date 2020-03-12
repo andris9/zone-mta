@@ -24,7 +24,7 @@
     "libmime": "3.1.0",
     "mailcomposer": "4.0.1",
     "mailsplit": "4.0.0",
-    "mkdirp": "0.5.1",
+    "mkdirp": "1.0.0",
     "mongodb": "2.2.24",
     "msgpack-js": "0.3.0",
     "nodemailer-fetch": "2.1.0",
