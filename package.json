@@ -35,7 +35,7 @@
     "socks": "1.1.10",
     "srs.js": "0.1.0",
     "uuid": "3.0.1",
-    "yargs": "6.6.0"
+    "yargs": "13.1.0"
   },
   "devDependencies": {
     "grunt": "^1.0.1",
