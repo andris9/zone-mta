@@ -28,14 +28,14 @@
     "mongodb": "2.2.24",
     "msgpack-js": "0.3.0",
     "nodemailer-fetch": "2.1.0",
-    "npmlog": "4.0.2",
+    "npmlog": "5.0.0",
     "restify": "4.3.0",
     "seq-index": "1.1.0",
     "smtp-server": "2.0.2",
     "socks": "1.1.10",
     "srs.js": "0.1.0",
     "uuid": "3.0.1",
-    "yargs": "6.6.0"
+    "yargs": "13.2.4"
   },
   "devDependencies": {
     "grunt": "^1.0.1",
