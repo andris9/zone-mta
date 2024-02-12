@@ -32,7 +32,7 @@
     "restify": "4.3.0",
     "seq-index": "1.1.0",
     "smtp-server": "2.0.2",
-    "socks": "1.1.10",
+    "socks": "2.7.2",
     "srs.js": "0.1.0",
     "uuid": "3.0.1",
     "yargs": "6.6.0"
